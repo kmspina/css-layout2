@@ -8,12 +8,12 @@
   width:100%;
 }
 
-.box grid_4{
+box grid_4{
   float: left;
   margin-right: 1.5%;
   width:32%;
 }
 
-.box img{
-  margin: 100%;
+img{
+  width: 100%;
 }
