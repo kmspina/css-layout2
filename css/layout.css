@@ -9,6 +9,7 @@
 }
 
 .box grid_4{
+  float: left;
   margin-right: 1.5%;
   width:32%;
 }
