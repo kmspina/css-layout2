@@ -1,6 +1,16 @@
 .heading {
   position:fixed;
 }
+
 .footer {
   position:fixed;
+}
+
+.box grid_4{
+  margin-right: 1.5%;
+  width:32%;
+}
+
+.box img{
+  margin: 100%;
 }
