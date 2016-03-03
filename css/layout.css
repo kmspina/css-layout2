@@ -20,3 +20,7 @@ body {
 .box {
   padding:10px 20px;
 }
+
+img{
+  width:100%;
+}
